@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is David, and I'm a **Software Engineering Student** interested in building practical software solutions and AI-powered applications.
+
+- 🔭 I'm currently working on **Visual Document RAG Assistant**, a capstone project focused on retrieving information from complex documents, including scanned pages, tables, diagrams, and images, and generating answers with source references.
+- 🚀 I recently built **[Portify](https://portify-sand.vercel.app/)**, a full-stack portfolio builder that helps professionals showcase their experience, projects, and skills through personalized web portfolios.
+- 🌱 I'm currently learning **Python, Retrieval-Augmented Generation (RAG), document and image processing, vector databases, multimodal embeddings, and vision-language models** to prepare for my Visual RAG capstone project. I'm also exploring **Dart and Flutter** for mobile application development.
+- 🎯 My goal is to become a well-rounded software engineer by building meaningful products, strengthening my problem-solving skills, and exploring emerging technologies.
+
 <!--
 **davidyeat/davidyeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
