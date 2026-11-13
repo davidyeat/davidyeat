@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi, I am David Yeat
 
-My name is David, and I'm a **Software Engineering Student** interested in building practical software solutions and AI-powered applications.
+A **Software Engineering Student** interested in building practical software solutions and AI-powered applications.
 
 - 🔭 I'm currently working on **Visual Document RAG Assistant**, a capstone project focused on retrieving information from complex documents, including scanned pages, tables, diagrams, and images, and generating answers with source references.
 
