@@ -1,4 +1,4 @@
-## Hi, I am David Yeat
+## Hi there, I'm David
 
 A **Software Engineering Student** interested in building practical software solutions and AI-powered applications.
 
